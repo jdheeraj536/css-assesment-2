@@ -1,9 +1,13 @@
 .background1{
     border: 8px groove greenyellow;
-    height: 2000px;
+    /* height: 2000px; */
     background-image: url(./sky.jpg);
     background-size: cover;
-    padding: px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 10;
 
 }
 .box1{
